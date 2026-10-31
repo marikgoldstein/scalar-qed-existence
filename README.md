@@ -37,7 +37,7 @@ In general, any organizational advice on how to proceed to help build knowledge 
 
 
 
-## Version history and related project
+## Version history and related projects
 
 The [`main_paper`](main_paper) folder will always carry our _latest.pdf.
 
