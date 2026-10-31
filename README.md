@@ -47,4 +47,4 @@ The current version (starting on 10/16/2026) takes a different route. It follows
 
 We thank E. Sussman and L. Alpoge for kind discussions on the existence issue.
 
-Check out https://github.com/pmaronow/3d-ym-torus also for a concurrent approach to Yang-Mills theory! and feel free to share further efforts on this topic! 
+Check out also https://github.com/pmaronow/3d-ym-torus by Patrick Lopatto and P. M. Aronow for a concurrent approach to Yang-Mills theory! and feel free to share further efforts on this topic! 
