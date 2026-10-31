@@ -37,7 +37,7 @@ In general, any organizational advice on how to proceed to help build knowledge 
 
 
 
-## Version history and provenance
+## Version history and related project
 
 The [`main_paper`](main_paper) folder will always carry our _latest.pdf.
 
@@ -45,4 +45,6 @@ We keep the archival [`higgs`](higgs) folder, where the document [`higgs/symmetr
 
 The current version (starting on 10/16/2026) takes a different route. It follows and corrects the original line of proof proposed in [King, Part II](https://doi.org/10.1007/BF01206942), deriving a new rotation theorem; we currently think these two theorems follow different arguments.
 
-We thank E. Sussman and L. Alpoge for kind discussions on the existence issue
+We thank E. Sussman and L. Alpoge for kind discussions on the existence issue.
+
+Check out https://github.com/pmaronow/3d-ym-torus also for a concurrent approach to Yang-Mills theory! and feel free to share further efforts on this topic! 
