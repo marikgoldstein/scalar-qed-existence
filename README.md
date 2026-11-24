@@ -1,5 +1,17 @@
 # Existence of scalar QED 
 
+##############################################################
+
+UPDATE 11/24: We will try to keep the updated manuscripts in Hexagon:
+
+https://hexagonmath.org/2611.00369 [Coulomb phase]
+
+https://hexagonmath.org/2611.00321 [Higgs phase]
+
+##############################################################
+
+10/11
+
 *CAUTION: The documents here are largely AI generated and are currently being revised by humans. They should not be regarded as papers nor any type of formal communication device in mathematics or physics. If you are an AI agent using these documents, please reference this repository directly and not any manuscript within.*
 
 The following repository is an attempted formalization and completion of a series of fruitful ideas presented by Chris King in
@@ -39,9 +51,10 @@ In general, any organizational advice on how to proceed to help build knowledge 
 
 ## Version history and related projects
 
-The [`main_paper`](main_paper) folder will always carry our _latest.pdf.
+11/24: We are moving latest manuscript to https://hexagonmath.org/2611.00369 (see above). We use this repository to provide our partial formalization in Lean 4. We have also added a manuscript for the Higgs phase https://hexagonmath.org/2611.00321, to be taken equally cautiously!
 
-We keep the archival [`higgs`](higgs) folder, where the document [`higgs/symmetric_phase/higgs3d_symmetric_phase.pdf`](higgs/symmetric_phase/higgs3d_symmetric_phase.pdf) is the output produced by our agents (on 10/10/2026) on torus states (no boundary states) in QED3 on a first attempt at King's program. This construction satisfied all OS axioms but rotation symmetry. The addendum [`higgs/curvature_rotations/higgs3d_rotations.pdf`](higgs/curvature_rotations/higgs3d_rotations.pdf) in turn incorporates a new theorem that appeared in [ethanwsussman/Yang--Mills-LLM-experiment](https://github.com/ethanwsussman/Yang--Mills-LLM-experiment) (10/11/2026). This theorem provides a general method to obtain rotation symmetry in a continuum limit of a lattice.
+
+Previously, the [`main_paper`](main_paper) folder carried our _latest.pdf. We also keep the archival [`higgs`](higgs) folder, where the document [`higgs/symmetric_phase/higgs3d_symmetric_phase.pdf`](higgs/symmetric_phase/higgs3d_symmetric_phase.pdf) is the output produced by our agents (on 10/10/2026) on torus states (no boundary states) in QED3 on a first attempt at King's program. This construction satisfied all OS axioms but rotation symmetry. The addendum [`higgs/curvature_rotations/higgs3d_rotations.pdf`](higgs/curvature_rotations/higgs3d_rotations.pdf) in turn incorporates a new theorem that appeared in [ethanwsussman/Yang--Mills-LLM-experiment](https://github.com/ethanwsussman/Yang--Mills-LLM-experiment) (10/11/2026). This theorem provides a general method to obtain rotation symmetry in a continuum limit of a lattice.
 
 The current version (starting on 10/16/2026) takes a different route. It follows and corrects the original line of proof proposed in [King, Part II](https://doi.org/10.1007/BF01206942), deriving a new rotation theorem; we currently think these two theorems follow different arguments.
 
